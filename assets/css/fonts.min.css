@@ -1,0 +1,23 @@
+body{font-family:'Source Sans Pro',sans-serif;font-weight:400}body .btn,body button,body input,body textarea{font-family:'Source Sans Pro',sans-serif}blockquote p{font-weight:300}.light{font-weight:300!important}.hairline{font-weight:200!important}.hairline strong{font-weight:400}h1,h2,h3,h4,h5,h6{font-family:'Source Sans Pro',sans-serif;font-weight:600}.lead{font-weight:300}.lead strong{font-weight:600}
+
+.title {
+  font-family: 'Lobster Two', cursive;
+  font-size: 500%;
+  text-shadow: 0 2px 3px #000;
+}
+
+.portfoliopic {
+		margin: 0 auto;
+		max-width: 200px;
+		height: 200px;
+		margin-right: 10px;
+	}
+
+.profile {
+	border-radius: 95px;
+	border: 5px solid black;
+}
+
+#about {
+	font-size: 19px;
+}

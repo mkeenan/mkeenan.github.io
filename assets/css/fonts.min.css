@@ -16,13 +16,14 @@ body{font-family:'Source Sans Pro',sans-serif;font-weight:400}body .btn,body but
 .profile {
 	border-radius: 95px;
 	border: 5px solid #82c9ed;
+	background-image: url(profilepic.jpeg);
+	overflow: hidden;
 }
 
 .profilepic{
-	img {
-	margin: 0 auto;
-	max-width: 300px;
-	}
+	height: 190px;
+	width: 190px;
+	text-align: center;
 }
 
 #about {
